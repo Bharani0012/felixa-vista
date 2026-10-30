@@ -15,9 +15,9 @@ export default function Footer() {
         <div>
           <h3 className="font-medium">Contact</h3>
           <p className="mt-2 text-sm text-white/70">
-            Phone / WhatsApp: [placeholder]
+            Phone / WhatsApp: 7449015872
           </p>
-          <p className="text-sm text-white/70">Email: [placeholder]</p>
+          <p className="text-sm text-white/70">Email: bharanitharan695@gmail.com</p>
         </div>
         <div>
           <h3 className="font-medium">RERA</h3>
